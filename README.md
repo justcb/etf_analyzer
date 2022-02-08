@@ -17,6 +17,7 @@ It imports:
 ![](img/1.png)
 ---
 
+
 ## Installation Guide
 
 This software does not require installation.  However, it does require the etf.db file that is included and should be in the root folderSimply navigate to the appropriate directory in your terminal and launch a Jupyter Notebook.  Then open the file called financial_planning_tools.ipynb.
@@ -44,6 +45,13 @@ Followed by a visualization of the cumulative returns for Paypal.
 Finally, it optimizes the SQL data and provides a combined cumulative return for the entire ETF.
 
 ![](img/6.png)
+
+Once the analysis is complete, the output is sent to Voila to create a web page with the data.  A video of the page is below.
+
+
+https://user-images.githubusercontent.com/19822677/152997440-d7809a0a-a513-4adb-9bcf-16207dca18c9.mov
+
+
 
 ---
 
